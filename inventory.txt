@@ -1,2 +1,0 @@
-WRT, 123, Store
-WRT, 34, Floor
